@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Richard Phan</h1>
-<h3 align="center">A passionate developer from Vietnam</h3>
+<h3 align="center">A passionate developer from Vietnam, I'm Founder & CEO RIKSOFT</h3>
 
 - 🔭 I’m currently working on **RIKSOFT COMPANY**
 - 👯 I’m looking to collaborate on any **start-up idea**
